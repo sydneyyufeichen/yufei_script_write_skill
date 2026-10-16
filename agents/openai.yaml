@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yufei Topic + Script Writer"
+  short_description: "Shortlist topics, script selected cores, or fuse selected sources"
+  default_prompt: "Use $yufei-script-write-skill to rank three eligible topics and list all related Instagram, Xiaohongshu, and text sources. Stop before drafting so I can choose sources, provide core content, or request an explicit multi-source fusion."
